@@ -1,46 +1,101 @@
-# Getting Started with Create React App
+##### The 2nd iteration of My Personal App - created using ReactJS, Overmind, Material UI etc...
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![p32929](https://user-images.githubusercontent.com/6418354/108698254-2256ee80-752e-11eb-8767-aeb5a4f86536.gif)
 
-## Available Scripts
+[![](https://badgen.net/github/release/p32929/p32929.github.io)]() [![](https://badgen.net/github/release/p32929/react-typescript-materialui-overmind-boilerplate/stable)]() [![](https://badgen.net/github/tag/p32929/p32929.github.io)]() [![](https://badgen.net/github/watchers/p32929/p32929.github.io)]() [![](https://badgen.net/github/checks/p32929/p32929.github.io)]() [![](https://badgen.net/github/status/p32929/p32929.github.io)]() [![](https://badgen.net/github/stars/p32929/p32929.github.io)]() [![](https://badgen.net/github/forks/p32929/p32929.github.io)]() [![](https://badgen.net/github/issues/p32929/p32929.github.io)]() [![](https://badgen.net/github/open-issues/p32929/p32929.github.io)]() [![](https://badgen.net/github/closed-issues/p32929/p32929.github.io)]() [![](https://badgen.net/github/label-issues/p32929/react-typescript-materialui-overmind-boilerplate/help-wanted/open)]() [![](https://badgen.net/github/prs/p32929/p32929.github.io)]() [![](https://badgen.net/github/open-prs/p32929/p32929.github.io)]() [![](https://badgen.net/github/closed-prs/p32929/p32929.github.io)]() [![](https://badgen.net/github/merged-prs/p32929/p32929.github.io)]() [![](https://badgen.net/github/commits/p32929/p32929.github.io)]() [![](https://badgen.net/github/last-commit/p32929/p32929.github.io)]() [![](https://badgen.net/github/branches/p32929/p32929.github.io)]() [![](https://badgen.net/github/releases/p32929/p32929.github.io)]() [![](https://badgen.net/github/tags/p32929/p32929.github.io)]() [![](https://badgen.net/github/license/p32929/p32929.github.io)]() [![](https://badgen.net/github/contributors/p32929/p32929.github.io)]() [![](https://badgen.net/github/dependents-pkg/p32929/p32929.github.io)]() 
 
-In the project directory, you can run:
+Visit Live: https://p32929.github.io/
 
-### `yarn start`
+## Share
+Sharing this repository with your friends is just one click away from here
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![facebook](https://image.flaticon.com/icons/png/32/124/124010.png)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/p32929/react-typescript-materialui-overmind-boilerplate/)
+[![twitter](https://image.flaticon.com/icons/png/32/124/124021.png)](https://twitter.com/intent/tweet?source=https://github.com/p32929/react-typescript-materialui-overmind-boilerplate/)
+[![tumblr](https://image.flaticon.com/icons/png/32/124/124012.png)](https://www.tumblr.com/share?v=3&u=https://github.com/p32929/react-typescript-materialui-overmind-boilerplate/)
+[![pocket](https://image.flaticon.com/icons/png/32/732/732238.png)](https://getpocket.com/save?url=https://github.com/p32929/react-typescript-materialui-overmind-boilerplate/)
+[![pinterest](https://image.flaticon.com/icons/png/32/124/124039.png)](https://pinterest.com/pin/create/button/?url=https://github.com/p32929/react-typescript-materialui-overmind-boilerplate/)
+[![reddit](https://image.flaticon.com/icons/png/32/2111/2111589.png)](https://www.reddit.com/submit?url=https://github.com/p32929/react-typescript-materialui-overmind-boilerplate/)
+[![linkedin](https://image.flaticon.com/icons/png/32/1409/1409945.png)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/p32929/react-typescript-materialui-overmind-boilerplate/)
+[![whatsapp](https://image.flaticon.com/icons/png/32/733/733585.png)](https://api.whatsapp.com/send?text=https://github.com/p32929/react-typescript-materialui-overmind-boilerplate/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+or Share my portfolio link ( https://p32929.github.io/ ) with your friends in just a click
 
-### `yarn test`
+[![facebook](https://image.flaticon.com/icons/png/32/124/124010.png)](https://www.facebook.com/sharer/sharer.php?u=https://p32929.github.io/)
+[![twitter](https://image.flaticon.com/icons/png/32/124/124021.png)](https://twitter.com/intent/tweet?source=https://p32929.github.io/)
+[![tumblr](https://image.flaticon.com/icons/png/32/124/124012.png)](https://www.tumblr.com/share?v=3&u=https://p32929.github.io/)
+[![pocket](https://image.flaticon.com/icons/png/32/732/732238.png)](https://getpocket.com/save?url=https://p32929.github.io/)
+[![pinterest](https://image.flaticon.com/icons/png/32/124/124039.png)](https://pinterest.com/pin/create/button/?url=https://p32929.github.io/)
+[![reddit](https://image.flaticon.com/icons/png/32/2111/2111589.png)](https://www.reddit.com/submit?url=https://p32929.github.io/)
+[![linkedin](https://image.flaticon.com/icons/png/32/1409/1409945.png)](https://www.linkedin.com/shareArticle?mini=true&url=https://p32929.github.io/)
+[![whatsapp](https://image.flaticon.com/icons/png/32/733/733585.png)](https://api.whatsapp.com/send?text=https://p32929.github.io/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+# How to use
+## Prerequisites
+You need to have `NodeJS` and `NPM` installed in your computer.
+If you don't have them installed, install them from here: https://nodejs.org/en/download/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## How to run the project
+1. Fork the repository ( Recommended )
+2. Clone your forked repository using `git clone YOUR-REPOSITORY-URL`
+3. Install all the dependencies using this command:
+`npm install`
+4. Run the project using this command:
+`npm start`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Create your own portfolio
+1. Fork the repository ( Recommended )
+2. Change the repository name to `https://your-github-username.github.io/` by going into settings
+3. Clone the repository using `git clone YOUR-REPOSITORY-URL`
+4. To modify the First Visible page infos (Like your name, image etc), edit `src/Utils/MainItems.js` file.
+5. To modify everything else, edit `src/Utils/GlobalVariables.js` file constants. For instance: Skills are in the `skills` constant. 
+6. To deploy the WebApp, Run this command: `npm run deploy`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Volla!! Now, you can check your portfolio LIVE version in the `homepage` URL (`https://your-github-username.github.io/`). Github may take a while to update the `github page` into your `homepage` URL.
 
-### `yarn eject`
+## Thanks
+Thanks to everyone for your STARS, WATCHES, FORKS, & VISITS. Special thanks to [Facebook](https://www.facebook.com/) for the [ReactJS](https://reactjs.org/) library, [mui-org](https://github.com/mui-org/) for the [Material-UI](https://material-ui.com/) Components library, [casesandberg](https://github.com/casesandberg) for the [react-color](https://casesandberg.github.io/react-color/) library, [Plabon Dey](https://www.facebook.com/plabon.shuvo1) for the Dynamic Color idea :P and [Github pages](https://pages.github.com/) for letting me host it for free. Am I missing anyone? If yes, Let me know via facebook: https://www.facebook.com/p32929/ 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Design inspired from https://www.uplabs.com/posts/glazzy-free-portfolio-psd-template 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## LICENSE
+```
+MIT License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Copyright (c) 2020 Fayaz Bin Salam
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## Learn More
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+
+# FAQ
+* Can I use it for any personal/commercial project?
+-> Yes. But don't change/remove the `fork icon` and the `URL it redirects to` at the `TOP-RIGHT corner`. So that, others can also benefit from the repository.
+
+* Can I use it for making my personal/commercial portfolio? 
+-> Definitely. But make sure you FORK it while doing it :)
+
+* Can I share your portfolio link with my friends?
+-> DEFINITELY! ^_^
+
+* Can I contact you if I get stuck while trying to create my own portfolio using the forked source code?
+-> DEFINITELY! :)
+
+## Support
+If you like my works and want to support me/my works, feel free to support or donate. My payment details can be found here: https://p32929.github.io/SendMoney2Me/
