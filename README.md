@@ -1,6 +1,13 @@
 ## react-typescript-materialui-overmind-boilerplate
 TypeScript friendly boilerplate with MaterialUI and Overmind
 
+## What is included
+* React ( CRA )
+* TypeScript
+* Overmind
+* MaterialUI
+* 
+
 ## Share
 Sharing this repository with your friends is just one click away from here
 
