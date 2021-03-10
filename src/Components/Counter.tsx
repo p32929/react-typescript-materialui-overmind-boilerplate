@@ -31,6 +31,7 @@ const Counter: React.FC<Props> = (props) => {
         <Button className={classes.button} variant='contained' color='primary' onClick={() => {
             increaseCounter(-1)
         }}>-</Button>
+
     </Grid>
 }
 
